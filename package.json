@@ -1,0 +1,30 @@
+{
+  "name": "open-flow",
+  "version": "0.0.1",
+  "description": "A sample application with i-tunes API.",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codeofnode/open-flow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeofnode/open-flow/issues",
+    "email": "codeofnode@gmail.com"
+  },
+  "keywords": [
+    "itunes",
+    "api",
+    "json",
+    "modular",
+    "app"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Ramesh Kumar <codeofnode@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/codeofnode/open-flow",
+  "dependencies": {}
+}
